@@ -11,8 +11,6 @@ import 'package:mazraaty/cubits/order_cubit/order_cubit.dart';
 import 'package:mazraaty/cubits/places_cubit/places_cubit.dart';
 import 'package:mazraaty/cubits/profile_cubit/profile_cubit.dart';
 import 'package:mazraaty/cubits/settings_cubit/settings_cubit.dart';
-
-import 'package:mazraaty/modules/auth_screens/login_screen.dart';
 import 'package:mazraaty/modules/auth_screens/splash_screen.dart';
 import 'package:mazraaty/shared/bloc_observer.dart';
 import 'package:mazraaty/shared/constants.dart';
